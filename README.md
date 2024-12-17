@@ -2,4 +2,4 @@
 Main app source code
 
 ## Description:
-A variant of Pidgin for Android and mobile operating systems
+A port of Pidgin for Android and mobile operating systems
